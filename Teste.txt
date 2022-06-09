@@ -1,3 +1,5 @@
 Primeira funcionalidade adicionada.
 Primeira funcionalidade alterada.
 Correção de bug.
+
+Segunda funcionalidade adicionada.
