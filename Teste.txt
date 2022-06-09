@@ -1,2 +1,4 @@
 Primeira funcionalidade adicionada.
 Primeira funcionalidade alterada.
+
+Segunda funcionalidade adicionada.
